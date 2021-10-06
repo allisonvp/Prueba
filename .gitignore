@@ -11,3 +11,9 @@ node_modules/
 *.njsproj
 *.sln
 *.sw*
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
